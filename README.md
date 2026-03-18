@@ -6,6 +6,10 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=garyconan1224&label=SYSTEM_VISITS&color=00d4ff&style=for-the-badge" alt="views" />
+
+<br><br>
+
 ### 👨‍💻 Orchestrating the Future of Visuals
 
 I am a **Senior Director & AIGC Workflow Architect**. With a core foundation in **Software Engineering** and a decade of high-end **Cinematography** experience, I build automated, high-fidelity creative pipelines that bridge pure code with professional film aesthetics.
@@ -37,24 +41,15 @@ I am a **Senior Director & AIGC Workflow Architect**. With a core foundation in 
   </a>
 </p>
 
-</div>
+<p align="center">
+  <b>🤖 Neural Synthesis (AIGC)</b><br>
+  <code>ComfyUI (Node Dev)</code> <code>Flux.1</code> <code>Stable Diffusion</code><br>
+  <code>Runway Gen-3</code> <code>Kling</code> <code>HeyGen</code> <code>Dify</code><br><br>
+  
+  <b>🎬 Professional Production</b><br>
+  <code>Unreal Engine 5 (UMG)</code> <code>DaVinci Resolve</code> <code>Topaz Video AI</code>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>🤖 Neural Synthesis (AIGC)</b><br><br>
-        <code>ComfyUI (Node Dev)</code> <code>Flux.1</code> <code>Stable Diffusion</code><br>
-        <code>Runway Gen-3</code> <code>Kling</code> <code>Luma Dream Machine</code><br>
-        <code>Dify</code> <code>Coze</code> <code>HeyGen</code>
-      </td>
-      <td align="center" width="50%">
-        <b>🎬 Professional Production</b><br><br>
-        <code>Unreal Engine 5 (UMG)</code> <code>DaVinci Resolve</code><br>
-        <code>DJI Drone Cinematography</code> <code>Topaz Video AI</code>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -70,6 +65,14 @@ I am a **Senior Director & AIGC Workflow Architect**. With a core foundation in 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=garyconan1224&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00d4ff&line=00d4ff&point=ffffff" width="85%" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garyconan1224/garyconan1224/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garyconan1224/garyconan1224/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/garyconan1224/garyconan1224/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -82,5 +85,10 @@ I am a **Senior Director & AIGC Workflow Architect**. With a core foundation in 
 <a href="https://space.bilibili.com/1966366" target="_blank"><img src="https://img.shields.io/badge/Bilibili-Conan's_Space-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
 <a href="https://www.zhihu.com/people/kenanmimi" target="_blank"><img src="https://img.shields.io/badge/Zhihu-Conan's_Column-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" /></a>
 <a href="http://www.garyconan.site/" target="_blank"><img src="https://img.shields.io/badge/Website-Personal_Site-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Hobby-DJI_Mini_Pilot-222222?style=for-the-badge&logo=dji&logoColor=white" />
+<img src="https://img.shields.io/badge/Gamer-League_of_Legends-0bc6e3?style=for-the-badge&logo=riotgames&logoColor=white" />
 
 </div>
