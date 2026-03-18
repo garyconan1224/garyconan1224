@@ -1,64 +1,86 @@
-# 🚀 Hi there, I'm Conan | AIGC Workflow Architect (AIGC 视觉工作流架构师)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=250&section=header&text=Conan's%20AIGC%20Lab&fontSize=70&fontColor=ffffff&animation=twinkling&desc=AIGC%20Workflow%20Architect%20%7C%20Visual%20Director&descAlignY=70&descAlign=50" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=>_Initializing+neural+networks...;>_Deploying+AIGC+Workflows...;>_Directing+pixels+with+algorithms...;>_Technology+is+the+structure,+Art+is+the+light.;" alt="Typing SVG" />
+
+<br>
+
+### 👨‍💻 Orchestrating the Future of Visuals
+
+I am a **Senior Director & AIGC Workflow Architect**. With a core foundation in **Software Engineering** and a decade of high-end **Cinematography** experience, I build automated, high-fidelity creative pipelines that bridge pure code with professional film aesthetics.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=garyconan1224&theme=radical&row=1&column=7&margin-w=15&no-frame=true&no-bg=true" alt="trophies" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠 The Architect's Arsenal
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Conan%20%7C%20AIGC%20Workflow%20Architect&fontSize=60&animation=fadeIn&fontAlignY=40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,bash,git,docker,linux,pr,ae,ps,idea,vscode&perline=12" />
+  </a>
 </p>
 
-## 👨‍💻 My Philosophy | 跨界融合之道
+</div>
 
-Specializing in **AIGC Workflow Orchestration**, leveraging a robust background in **Software Engineering** to bridge the gap between pure technology and high-end **Cinematographic Aesthetics**. My mission is to build automated, high-fidelity creative pipelines for professional production.
-
-专注于 **AIGC 视觉工作流编排**。凭借扎实的**软件工程**背景，打通纯技术与高阶**电影级美学**之间的壁垒。致力于为专业生产构建自动化、高保真的创意流水线。
-
----
-
-## 🛠 My Architect's Toolkit | 架构师工具箱
-
-### 🤖 Neural Image & Video Synthesis (AIGC)
-- **Workflow Orchestration:** **ComfyUI (Pro Node Orchestration)**, Coze, Dify
-- **Image:** Stable Diffusion (WebUI/Forge), **Flux.1**, Midjourney (Advanced Prompting)
-- **Video:** **Runway Gen-3**, **Kling (可灵)**, **Luma Dream Machine**, Pika, HeyGen (Digital Human)
-- **Audio:** Suno v3.5, Udio, ElevenLabs (Voice Cloning/Dubbing)
-
-### 🎬 Professional Production & Integration
-- **Virtual Production:** Unreal Engine 5 (UMG & VP pipelines), **Topaz Video AI** (Upscaling/Enhancing)
-- **Post-Production:** DaVinci Resolve (Professional Color Grading), DJI Drone Cinematography
-
-### 💻 Development & Automation
-- **Languages:** Python (AI Automation Scripts/Node Dev), JavaScript, Shell, C++ (UE5 basics)
-- **Infrastructure:** Local AI Server Deployment, Git Version Control, NAS Integration
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>🤖 Neural Synthesis (AIGC)</b><br><br>
+        <code>ComfyUI (Node Dev)</code> <code>Flux.1</code> <code>Stable Diffusion</code><br>
+        <code>Runway Gen-3</code> <code>Kling</code> <code>Luma Dream Machine</code><br>
+        <code>Dify</code> <code>Coze</code> <code>HeyGen</code>
+      </td>
+      <td align="center" width="50%">
+        <b>🎬 Professional Production</b><br><br>
+        <code>Unreal Engine 5 (UMG)</code> <code>DaVinci Resolve</code><br>
+        <code>DJI Drone Cinematography</code> <code>Topaz Video AI</code>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💼 Professional Milestones | 职业历程
+<div align="center">
 
-- **Huawei (2021 - Present):** Senior Cinematographer & Director, exploring AI integration in corporate media.
-- **1MORE / emie / ZOL:** Directed commercial videos and established visual standards for tech brands.
+### 📈 Real-time Neural Activity
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=garyconan1224&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyconan1224&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" height="180" />
 
-## 📊 My GitHub Journey | 实时统计
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garyconan1224&show_icons=true&theme=nord&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyconan1224&layout=compact&theme=nord&hide_border=true&title_color=00d4ff&text_color=ffffff" height="170" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=garyconan1224&theme=tokyo-night&bg_color=00000000&hide_border=true&color=00d4ff&line=00d4ff&point=ffffff" width="85%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garyconan1224&theme=react-dark&bg_color=0d1117&hide_border=true&color=00d4ff" />
-</p>
+</div>
 
 ---
 
-## 📫 Connect with me | 联系我
+<div align="center">
 
-<p align="left">
+### 📫 Initialize Connection
+
 <a href="https://weibo.com/u/1261434775" target="_blank"><img src="https://img.shields.io/badge/Weibo-Conan-red?style=for-the-badge&logo=sinaweibo&logoColor=white" /></a>
 <a href="https://space.bilibili.com/1966366" target="_blank"><img src="https://img.shields.io/badge/Bilibili-Conan's_Space-fb7299?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
 <a href="https://www.zhihu.com/people/kenanmimi" target="_blank"><img src="https://img.shields.io/badge/Zhihu-Conan's_Column-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" /></a>
 <a href="http://www.garyconan.site/" target="_blank"><img src="https://img.shields.io/badge/Website-Personal_Site-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
 
----
-
-> "Technology is the structure; Art is the light that inhabits it." 🌌
+</div>
