@@ -9,11 +9,16 @@ on:
     branches:
     - main
 
+# 【关键修复】明确赋予 GitHub Actions 推送代码的最高权限
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # 升级到 v4 解决 Node.js 20 警告
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk@v3
         with:
@@ -22,7 +27,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 升级到 v4 解决 Node.js 20 警告
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
